@@ -28,4 +28,7 @@ I'm a student who is currently pursuing the full-stack web development diploma a
 ![Terminal](https://skillicons.dev/icons?i=bash)
 
 ## 🌎 Socials
-![Socials](https://skillicons.dev/icons?i=github,linkedin)
+<p align="left"> 
+  <a href="https://www.github.com/scottchen98"><img src="https://skillicons.dev/icons?i=github" /></a> 
+  <a href="https://www.linkedin.com/in/scottchen98"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
