@@ -13,13 +13,13 @@ I'm a student who is currently pursuing the full-stack web development diploma a
 
 ## ⚒️ Tech Stack
 #### Web Development
-![Web Development](https://skillicons.dev/icons?i=javascript,ts,vite)
+![Web Development](https://skillicons.dev/icons?i=javascript,ts,vite,netlify,vercel)
 #### Frontend
 ![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap)
 #### Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,express)
 #### Database
-![Database](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,prisma,redis,planetscale)
+![Database](https://skillicons.dev/icons?i=supabase,mysql,sqlite,mongodb,prisma,redis,planetscale)
 #### Web Design
 ![Web Design](https://skillicons.dev/icons?i=figma,ps)
 #### Testing
