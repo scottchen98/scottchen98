@@ -15,7 +15,7 @@ I'm a student who is currently pursuing the full-stack web development diploma a
 #### Web Development
 ![Web Development](https://skillicons.dev/icons?i=javascript,ts,vite,netlify,vercel)
 #### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap)
+![Frontend](https://skillicons.dev/icons?i=html,css,react,redux,tailwind,styledcomponents,bootstrap)
 #### Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,supabase)
 #### Database
