@@ -1,6 +1,6 @@
-# 👨🏻‍💻 Full-Stack Web Developer
+# 👨🏻‍💻 Hi, I'm Scott!
 
-I'm a student who is currently pursuing the full-stack web development diploma at BCIT. I have a passion for front-end/back-end web development and love to develop both client and server software.
+I am a full-stack web developer with a neuroscience background who loves building impactful projects with creative people.
 
 * 🌍  I'm based in Vancouver
 * 🖥️  See my [portfolio](https://scottchen.vercel.app)
