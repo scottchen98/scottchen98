@@ -1,28 +1,25 @@
 # 👨🏻‍💻 Hi, I'm Scott!
 
-I am a full-stack web developer with a neuroscience background who loves building impactful projects with creative people.
+I'm a Technical Project Manager at Videre Financiers and a software engineer with a neuroscience background who loves building impactful projects with creative people.
 
-* 🌍  I'm based in Vancouver
-* 🖥️  See my [portfolio](https://scottchen.vercel.app)
-* ✉️  You can contact me at [scott.chen1117@gmail.com](mailto:scott.chen1117@gmail.com)
-* 🤝  I'm open to collaborating on projects
+## ⚒️ Technical Skills
+| **Category**          | **Technologies**                                                         |
+|-----------------------|--------------------------------------------------------------------------|
+| **Languages**         | JavaScript, TypeScript, Python                                                   |
+| **Frameworks & Libraries** | React, Next.js, TailwindCSS, Drizzle ORM, Node.js, Express.js         |
+| **Database** | PostgreSQL, MySQL, SQLite, Neon, Turso                          |
+| **Tools & Platforms** | Vercel, GitHub, AWS, Docker, Supabase, Appwrite             |
+| **AI**                | Hugging Face, OpenAI, Langchain                                       |
+| **Testing**           | Vitest, React Testing Library, JSDOM, Jest                               |
 
-## ⚒️ Tech Stack
-#### Web Development
-![Web Development](https://skillicons.dev/icons?i=javascript,ts,cs,php,nextjs,vite,netlify,vercel)
-#### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,react,redux,tailwind,styledcomponents,bootstrap)
-#### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,dotnet,laravel,supabase)
-#### Database
-![Database](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,prisma,redis,planetscale)
-#### Web Design
-![Web Design](https://skillicons.dev/icons?i=figma,ps)
-#### Testing
-![Testing](https://skillicons.dev/icons?i=jest,cypress)
+## 📚 Key Projects
+- **[TLDR](https://github.com/scottchen98/TLDR):** A text summarizer app that utilizes AI to instantly summarize webpages, providing the gist of any article with just a pasted URL.
+- **[SyncBoard](https://github.com/scottchen98/SyncBoard):** A real-time, collaborative whiteboard where you can drag and drop tasks between categories and work with others on the same board.
+- **[PicTok](https://github.com/pictok/web-app):** A photo sharing web app that uses AI to transform pictures into soundscapes for visually impaired young adults.
+- **[StockPulse](https://github.com/scottchen98/StockPulse):** A stock app that delivers real-time stock insights and a curated news page featuring the top 100 market news.
 
-## 🌎 Socials
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/scottchen98"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.github.com/scottchen98"><img src="https://skillicons.dev/icons?i=github" /></a> 
-</p>
+## 📬 Connect with Me
+- 📫 [Email](mailto:scott.chen1117@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/scottchen98/)
+
+I'm excited about collaborating on projects that merge technology with innovation and impact. Let's connect!
