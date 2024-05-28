@@ -60,7 +60,7 @@ I'm a Technical Project Manager at Videre Financiers and a software engineer wit
 - **[StockPulse](https://github.com/scottchen98/StockPulse):** A stock app that delivers real-time stock insights and a curated news page featuring the top 100 market news.
 
 ## 📬 Connect with Me
-- 📫 [Email](mailto:scott.chen1117@gmail.com)
+- 📧 [Email](mailto:scott.chen1117@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/scottchen98/)
 
 I'm excited about collaborating on projects that merge technology with innovation and impact. Let's connect!
