@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Hi, I'm Scott!
 
-I'm a Technical Project Manager at Videre Financiers and a software engineer with a neuroscience background who loves building impactful projects with creative people.
+I'm a software engineer at Videre Financiers with a neuroscience background who loves building impactful projects with creative people.
 
 ## ⚒️ Technical Skills
 ### Languages
@@ -27,7 +27,7 @@ I'm a Technical Project Manager at Videre Financiers and a software engineer wit
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/)
 [![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-F90?logo=awslambda&logoColor=fff&style=flat)](https://aws.amazon.com/lambda/)
 [![Amazon S3 Badge](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=flat)](https://aws.amazon.com/s3/)
-[![Amazon API Gateway Badge](https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=fff&style=flat)](https://aws.amazon.com/api-gateway/)
+[![Stripe Badge](https://img.shields.io/badge/Stripe-626CD9?logo=Stripe&logoColor=white&style=flat)](https://stripe.com/en-ca)
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)](https://www.docker.com/)
 [![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat)](https://supabase.com/)
 [![Appwrite Badge](https://img.shields.io/badge/Appwrite-FD366E?logo=appwrite&logoColor=fff&style=flat)](https://appwrite.io/)
