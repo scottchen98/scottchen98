@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Hi, I'm Scott!
 
-I'm a software engineer at Videre Financiers with a neuroscience background who loves building impactful projects with creative people.
+I'm a software engineer with a neuroscience background who loves building impactful projects with creative people.
 
 ## ⚒️ Technical Skills
 ### Languages
